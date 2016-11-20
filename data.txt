@@ -1,0 +1,1 @@
+https://pyconpune.talkfunnel.com/2017/24-image-processing-in-python-using-opencv
